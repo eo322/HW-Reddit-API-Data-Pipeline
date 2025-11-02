@@ -1,3 +1,16 @@
+"""
+===============================================================================
+Author:         Elvir Osmanovic
+Created:        2025-11-02
+Description:
+    This script retrieves trending posts and keyword-based search results from selected subreddits, extracts relevant metadata, 
+    and exports the cleaned dataset to a CSV file for further analysis.
+Notes:
+    Make sure all dependencies are installed:
+        pip install -r requirements.txt
+===============================================================================
+"""
+
 import praw
 import os
 from dotenv import dotenv_values
