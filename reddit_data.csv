@@ -1,0 +1,212 @@
+title,score,upvote_ratio,num_comments,author,subreddit,url,permalink,created_utc,is_self,selftext,flair,domain,search_query
+[D] Self-Promotion Thread,2.0,0.75,3.0,AutoModerator,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1om5smw/d_selfpromotion_thread/,/r/MachineLearning/comments/1om5smw/d_selfpromotion_thread/,1762049735.0,True,"Please post your personal projects, startups, product placements, collaboration needs, blogs etc.
+
+Please mention the payment and pricing requirements for products and services.
+
+Please do not post link shorteners, link aggregator websites , or auto-subscribe links.
+
+\--
+
+Any abuse of trust will lead to bans.
+
+Encourage others who create new posts for questions to post here instead!
+
+Thread will stay alive until next one so keep posting after the date in the title.
+
+\--
+
+Meta: This is an experim",Discussion,self.MachineLearning,
+[D] Monthly Who's Hiring and Who wants to be Hired?,12.0,0.88,,AutoModerator,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1okj2rw/d_monthly_whos_hiring_and_who_wants_to_be_hired/,/r/MachineLearning/comments/1okj2rw/d_monthly_whos_hiring_and_who_wants_to_be_hired/,1761877894.0,True,"**For Job Postings** please use this template
+
+>Hiring: \[Location\], Salary:\[\], \[Remote | Relocation\], \[Full Time | Contract | Part Time\]    and \[Brief overview, what you're looking for\]
+
+**For Those looking for jobs** please use this template
+
+>Want to be Hired: \[Location\], Salary Expectation:\[\], \[Remote | Relocation\], \[Full Time | Contract | Part Time\]  Resume: \[Link to resume\] and \[Brief overview, what you're looking for\]
+
+&#x200B;
+
+Please remember that this community is ",Discussion,self.MachineLearning,
+[R] TempoPFN: Synthetic Pretraining of Linear RNNs for Zero-Shot Timeseries Forecasting,12.0,1.0,1.0,iltruma,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1omdrng/r_tempopfn_synthetic_pretraining_of_linear_rnns/,/r/MachineLearning/comments/1omdrng/r_tempopfn_synthetic_pretraining_of_linear_rnns/,1762078671.0,True,"https://preview.redd.it/h8ax4n36ktyf1.png?width=1080&format=png&auto=webp&s=e1c08e0c0415264d29d72b495a725f857a5fb56e
+
+*Authors:* Vladyslav Moroshan, Julien Siems, Arber Zela, Timur Carstensen, Frank Hutter
+
+TempoPFN is a univariate time series foundation model based on linear RNNs that is pre-trained exclusively on synthetic data and achieves competitive zero-shot forecasting performance while maintaining efficient, fully parallelizable training and inference. The model uses a GatedDeltaProduct ",Research,self.MachineLearning,
+[P] Introducing Hephaestus: AI workflows that build themselves as agents discover what needs to be done,1.0,0.6,,Standard_Excuse7988,MachineLearning,https://www.reddit.com/gallery/1omluvq,/r/MachineLearning/comments/1omluvq/p_introducing_hephaestus_ai_workflows_that_build/,1762101120.0,,"Hey everyone! 👋
+
+I've been working on Hephaestus - an open-source framework that changes how we think about AI agent workflows.
+
+**The Problem:** Most agentic frameworks make you define every step upfront. But complex tasks don't work like that - you discover what needs to be done as you go.
+
+**The Solution:** Semi-structured workflows. You define *phases* - the logical steps needed to solve a problem (like ""Reconnaissance → Investigation → Validation"" for pentesting). Then agents dynamically cr",Project,reddit.com,
+[P] Flow Matching: A visual introduction,30.0,0.98,,Xochipilli,MachineLearning,https://peterroelants.github.io/posts/flow_matching_intro/,/r/MachineLearning/comments/1olumno/p_flow_matching_a_visual_introduction/,1762020413.0,,"I've been working with flow matching models for video generation for a while, and recently went back to my old notes from when I was first learning about them. I cleaned them up and turned them into this blog post.
+
+Hopefully it’s useful for anyone exploring flow matching for generative modeling. Writing it certainly helped solidify my own understanding.",Project,peterroelants.github.io,
+[R] Should I still write up my clinical ML project if the results aren’t “amazing”? Metrics in body!!,6.0,0.69,18.0,Capital-Towel-5854,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1om46fv/r_should_i_still_write_up_my_clinical_ml_project/,/r/MachineLearning/comments/1om46fv/r_should_i_still_write_up_my_clinical_ml_project/,1762044934.0,True,"Hi all,  
+I’m a PhD hopeful (apps due soon), and I’m spiraling over whether my clinical ML project is worth writing up. I’ve done everything I know - tuning, imputation, benchmarks - but results feel ""good but not groundbreaking"".
+
+I am confused/worried if I should even continue writing the paper or what to do. I would love your take on what I could do next.
+
+The dataset had a ton of missing values, so I handled them like this:
+
+* 0–5% missing → median imputation
+* 5–30% → MICE
+* 30–70% → MICE +",Research,self.MachineLearning,
+[R] PhD students: Do you use LLMs to help?,,0.46,7.0,nenderflow,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1omikqi/r_phd_students_do_you_use_llms_to_help/,/r/MachineLearning/comments/1omikqi/r_phd_students_do_you_use_llms_to_help/,1762093454.0,True,"I regularly use Chat to help understand some aspects of paper better, to write some bash/scripts, etc. Is that frowned upon? Should I be writing everything from scratch? Especially since the landscape is publish or peril, what do you think of accelerating the experimental portion of the research to publish faster?",Research,self.MachineLearning,
+[D] ArXiv CS to stop accepting Literature Reviews/Surveys and Position Papers without peer-review.,333.0,1.0,35.0,NamerNotLiteral,MachineLearning,https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/,/r/MachineLearning/comments/1ol8wup/d_arxiv_cs_to_stop_accepting_literature/,1761951858.0,,"tl;dr — ArXiv CS will no longer be accepting literature reviews, surveys or position papers because there's too much LLM-generated spam. They must now be accepted and published at a ""[decent venue](https://bsky.app/profile/tdietterich.bsky.social/post/3lxgqsuyz3s2n)"" first.",News,blog.arxiv.org,
+[D] [R] Error-Driven Adaptive Routing: Learning Compute Allocation from Frozen Representations,,0.25,2.0,MikeBeezzz,MachineLearning,https://medium.com/@mbonsign/error-driven-adaptive-routing-learning-compute-allocation-from-frozen-representations-037bbb6196e8,/r/MachineLearning/comments/1omb3po/d_r_errordriven_adaptive_routing_learning_compute/,1762068108.0,,,Research,medium.com,
+[D] Best (free) courses on neural networks,9.0,0.91,16.0,gized00,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1olqqj0/d_best_free_courses_on_neural_networks/,/r/MachineLearning/comments/1olqqj0/d_best_free_courses_on_neural_networks/,1762011078.0,True,"I have to prepare a course on NN for master students. As you can expect, there is A LOT of interest into learning about LLMs and related topics. So I would like to spend ±50% of the classes on Transformers/attention mechanisms/RL in LLMs/etc.
+
+At the best of my knowledge there is no textbook on this (using Deep Learning by Goodfellow et al. for the first part) so I am looking for the best classes on similar topics. 
+
+  
+I will use these classes to inform my selection of topics, see how others in",Discussion,self.MachineLearning,
+'Godfather of AI' says tech giants can't profit from their astronomical investments unless human labor is replaced | Fortune,148.0,0.83,69.0,msaussieandmrravana,Artificial,https://fortune.com/2025/11/01/geoffrey-hinton-godfather-of-ai-investment-tech-company-profits-human-labor-replacement/,/r/artificial/comments/1om6pnc/godfather_of_ai_says_tech_giants_cant_profit_from/,1762052561.0,,"AI is not profitable, unless these companies are allowed to starve billion people.",News,fortune.com,
+You're absolutely right.,651.0,0.9,127.0,MetaKnowing,Artificial,https://v.redd.it/u13z27vogmyf1,/r/artificial/comments/1olkek8/youre_absolutely_right/,1761992631.0,,,Media,v.redd.it,
+Made my first AI Agent Researcher with Python + Langchain + Ollama,2.0,0.67,2.0,FriendshipCreepy8045,Artificial,https://www.reddit.com/r/artificial/comments/1omg4cs/made_my_first_ai_agent_researcher_with_python/,/r/artificial/comments/1omg4cs/made_my_first_ai_agent_researcher_with_python/,1762086882.0,True,"Hey everyone!  
+So I always wondered how AI agent worked and as a Frontend Engineer, I use copilot agent everyday for personal professional projects and always wondered ""how the hack it decides what files to read, write, what cmd commands to execute, how the hack did it called my terminal and ran (npm run build)""
+
+[](https://preview.redd.it/made-my-first-ai-agent-researcher-with-python-langchain-v0-hheesl0w5uyf1.png?width=2040&format=png&auto=webp&s=16c61ae1ae74f01ad51028f796cadcdd1a8a95bc)
+
+And",Project,self.artificial,
+AI industry-backed group to spend millions pushing regulation agenda,,0.5,3.0,MetaKnowing,Artificial,https://www.axios.com/2025/10/29/ai-new-advocacy-group-dark-money,/r/artificial/comments/1omdm1x/ai_industrybacked_group_to_spend_millions_pushing/,1762078072.0,,,News,axios.com,
+"I solved the ""ChatGPT/Claude loses the plot by chapter 5"" problem (built a fully agentic AI publishing team)",,0.33,3.0,gavlaahh,Artificial,https://www.reddit.com/r/artificial/comments/1omkbmx/i_solved_the_chatgptclaude_loses_the_plot_by/,/r/artificial/comments/1omkbmx/i_solved_the_chatgptclaude_loses_the_plot_by/,1762097593.0,True,"    if you have ever used AI to write stories, novels, books then you probably have hit this issue...
+    
+    You know that frustrating moment around chapter 5 when ChatGPT just... loses the thread? Character names change. Plot points disappear. The world-building you carefully established gets forgotten.
+    
+    
+    I hit that wall so many times I basically rage-quit and rebuilt the entire approach.
+    
+    
+    The problem isn't your outline. The problem is that ChatGPT is trying to do two",Project,self.artificial,
+What is our solution to automation then?,1.0,0.56,10.0,PaxODST,Artificial,https://www.reddit.com/r/artificial/comments/1om99tu/what_is_our_solution_to_automation_then/,/r/artificial/comments/1om99tu/what_is_our_solution_to_automation_then/,1762061178.0,True,"It seems like the majority of the people i’ve seen on Reddit, aswell as spoken to in person on the topic view current generative AI quite negatively. Negatively enough that they believe the cons outweigh the pros by a significant amount, at least. I’m curious, then, if we were to do away with current LLMs and generative AI right now (won’t happen, but let’s imagine), ignoring the economic implications, how are we supposed to solve automation? This seems like it should be the primary goal of huma",Discussion,self.artificial,
+"Claude Code Native Installer Released, Recommended as Default Installation Method",3.0,1.0,,zshm,Artificial,https://www.reddit.com/r/artificial/comments/1om6tjr/claude_code_native_installer_released_recommended/,/r/artificial/comments/1om6tjr/claude_code_native_installer_released_recommended/,1762052912.0,True,"# Core Advantages
+
+**Easy Installation**: No need to depend on a Node.js environment, simplifying the installation process.
+
+**Stable Operation**: Uses a standalone, self-contained executable file, reducing system compatibility issues.
+
+**Reliable Updates**: Optimized auto-updater, minimizing update failures and system crashes.
+
+# Installation Method
+
+Close all currently running Claude Code sessions.
+
+**Install with Homebrew on macOS, Linux**
+
+brew install --cask claude-code
+
+**Install via scrip",News,self.artificial,
+Video Generating AI For CGI Style Cut Scenes?,2.0,1.0,,StealieErrl,Artificial,https://www.reddit.com/r/artificial/comments/1om8mvk/video_generating_ai_for_cgi_style_cut_scenes/,/r/artificial/comments/1om8mvk/video_generating_ai_for_cgi_style_cut_scenes/,1762058967.0,True,"Essentially, my friends and I wanted to create some videos for WWE 2K, creating our own stories with the game’s Universe Mode. 
+
+The game’s pre generated cutscenes and promos are rather limiting so to tell the stories in the way we want to, I’m wondering it’s possible to use AI to generate I guess our own cutscenes using character models from the game? ",Question,self.artificial,
+A Critical Defense of Human Authorship in AI-Generated Music,,0.43,8.0,BradizbakeD,Artificial,https://www.reddit.com/r/artificial/comments/1omajbz/a_critical_defense_of_human_authorship_in/,/r/artificial/comments/1omajbz/a_critical_defense_of_human_authorship_in/,1762065857.0,True,"The argument that AI music is solely the product of a short, uncreative prompt is a naive, convenient oversimplification that fails to recognize the creative labor involved.
+
+A. The Prompt as an Aesthetic Blueprint
+
+The prompt is not a neutral instruction; it is a detailed, original articulation of a soundscape, an aesthetic blueprint, and a set of structural limitations that the human creator wishes to realize sonically. This act of creative prompting, coupled with subsequent actions, aligns pe",Discussion,self.artificial,
+Simulating universes and intelligent life will be a goal of AGI. Humans as gods is evidence we aren't in base reality,,0.25,4.0,rn_journey,Artificial,https://www.reddit.com/r/artificial/comments/1omkedu/simulating_universes_and_intelligent_life_will_be/,/r/artificial/comments/1omkedu/simulating_universes_and_intelligent_life_will_be/,1762097770.0,True,"As technology keeps improving, humans keep trying to simulate complex models where intelligent or conscious life could emerge. We will try to simulate universes or this could even be a side effect of looking for simple and practical answers to questions, such as how to organize society, right up to getting to the end point of fundamental physics questions.
+
+Therefore in the grand scheme of things, and on the condition of it being physically possible, humanity is at the precipice of creating digi",Discussion,self.artificial,
+Sora 2 megathread (part 3),239.0,0.88,8508.0,WithoutReason1729,OpenAI,https://www.reddit.com/r/OpenAI/comments/1o8kmg9/sora_2_megathread_part_3/,/r/OpenAI/comments/1o8kmg9/sora_2_megathread_part_3/,1760654515.0,True,"The last one hit the post limit of 100,000 comments.
+
+# Do not try to buy codes. You will get scammed.
+
+# Do not try to sell codes. You will get permanently banned.
+
+We have a bot set up to distribute invite codes [in the Discord](https://discord.gg/k55eH4aq) so join if you can't find codes in the comments here. Check the #sora-invite-codes channel.
+
+## [The Discord](https://discord.gg/k55eH4aq) has dozens of invite codes available, with more being posted constantly!
+
+---
+
+**Update:** Discord is",Mod Post,self.OpenAI,
+AMA on our DevDay Launches,99.0,0.79,517.0,OpenAI,OpenAI,https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/,/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/,1759948776.0,True,"It’s the best time in history to be a builder. At DevDay \[2025\], we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in ChatGPT.
+
+Ask us questions about our launches such as:
+
+AgentKit  
+Apps SDK  
+Sora 2 in the API  
+GPT-5 Pro in the API  
+Codex
+
+Missed out on our announcements? Watch the replays: [https://youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o&si=nSbLbLDZO7o-NMmo](https://youtube.com/play",Discussion,self.OpenAI,
+Never going to uninstall X,1611.0,0.86,312.0,Kiran_c7,OpenAI,https://www.reddit.com/gallery/1omd3jh,/r/OpenAI/comments/1omd3jh/never_going_to_uninstall_x/,1762076102.0,,This is how billionaires conflicts look like,Discussion,reddit.com,
+this is insane tbh,192.0,0.81,66.0,eternviking,OpenAI,https://i.redd.it/h5a40nm4bvyf1.png,/r/OpenAI/comments/1omldc2/this_is_insane_tbh/,1762099992.0,,,Discussion,i.redd.it,
+"Ilya accused Sam Altman of a ""consistent pattern of lying""",382.0,0.96,76.0,MetaKnowing,OpenAI,https://i.redd.it/3b7aazzgjtyf1.png,/r/OpenAI/comments/1omdppl/ilya_accused_sam_altman_of_a_consistent_pattern/,1762078465.0,,[https://www.theinformation.com/articles/openai-founder-discusses-anthropic-merger-talks-internal-beefs-deposition](https://www.theinformation.com/articles/openai-founder-discusses-anthropic-merger-talks-internal-beefs-deposition),News,i.redd.it,
+Wheres Wally?,463.0,0.96,39.0,SecretManagement8328,OpenAI,https://www.reddit.com/gallery/1om33lu,/r/OpenAI/comments/1om33lu/wheres_wally/,1762041816.0,,ChatGPT shows me where Wally *definitely* is.,Image,reddit.com,
+"""Nah i dont want to modify your icon, here's a picture of you dead instead.""",428.0,0.94,35.0,PulIthEld,OpenAI,https://i.redd.it/7d85rcqi7qyf1.png,/r/OpenAI/comments/1om1oqj/nah_i_dont_want_to_modify_your_icon_heres_a/,1762037984.0,,,Image,i.redd.it,
+Sama was having none of it today. Burned Brad badly,585.0,0.85,187.0,ShooBum-T,OpenAI,https://v.redd.it/yiv2hksukoyf1,/r/OpenAI/comments/1oltqv5/sama_was_having_none_of_it_today_burned_brad_badly/,1762018295.0,,Pretty fiery Sama showed up at the BG2 podcast. ,Video,v.redd.it,
+Codex has limits now and it's unusable. 1 Prompt = 5% weekly usage (mine failed...),7.0,0.71,10.0,SuchNeck835,OpenAI,https://www.reddit.com/r/OpenAI/comments/1omh5ol/codex_has_limits_now_and_its_unusable_1_prompt_5/,/r/OpenAI/comments/1omh5ol/codex_has_limits_now_and_its_unusable_1_prompt_5/,1762089802.0,True,"https://preview.redd.it/kyw7wkbrguyf1.png?width=1240&format=png&auto=webp&s=61047ee09eb5a9ef3d1f63b7a2c5309f37958d84
+
+This is the saddest way of them introducing this... 1 Prompt was literally 5% of weekly usage data for me, and the prompt literally failed. Realistically, you can expect 10 half-way working outputs with this. As a paying plus user. Per week. This is such a joke and it's just sad... Please make this somewhat realistic. I'm looking for alternatives now although I really liked codex",Discussion,self.OpenAI,
+Watch till the end…,546.0,0.75,96.0,Mathemodel,OpenAI,https://v.redd.it/tnudy8i49nyf1,/r/OpenAI/comments/1olna9b/watch_till_the_end/,1762002181.0,,,Video,v.redd.it,
+[D] How is this sub not going ballistic over the recent GPT-4 Vision release?,495.0,0.79,518.0,corporate_autist,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/16ux9xt/d_how_is_this_sub_not_going_ballistic_over_the/,/r/MachineLearning/comments/16ux9xt/d_how_is_this_sub_not_going_ballistic_over_the/,1695948480.0,True,"For a quick disclaimer, I know people on here think the sub is being flooded by people who arent ml engineers/researchers. I have worked at two FAANGS on ml research teams/platforms. 
+
+My opinion is that GPT-4 Vision/Image processing is out of science fiction. I fed chatgpt an image of a complex sql data base schema, and it converted it to code, then optimized the schema. It understood the arrows pointing between table boxes on the image as relations, and even understand many to one/many to many",Discussion,self.MachineLearning,GPT-4
+[R] Sparks of Artificial General Intelligence: Early experiments with GPT-4,551.0,0.93,355.0,SWAYYqq,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/11z3ymj/r_sparks_of_artificial_general_intelligence_early/,/r/MachineLearning/comments/11z3ymj/r_sparks_of_artificial_general_intelligence_early/,1679534353.0,True,"[New paper](https://arxiv.org/abs/2303.12712) by MSR researchers analyzing an early (and less constrained) version of GPT-4. Spicy quote from the abstract:
+
+""Given the breadth and depth of GPT-4's capabilities, we believe that it could reasonably be viewed as an early (yet still incomplete) version of an artificial general intelligence (AGI) system.""
+
+What are everyone's thoughts?",Research,self.MachineLearning,GPT-4
+[R] GPT-4 didn't really score 90th percentile on the bar exam,850.0,0.97,157.0,salamenzon,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/13ovc04/r_gpt4_didnt_really_score_90th_percentile_on_the/,/r/MachineLearning/comments/13ovc04/r_gpt4_didnt_really_score_90th_percentile_on_the/,1684772153.0,True,"According to [this article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4441311), OpenAI's claim that it scored 90th percentile on the UBE appears to be based on approximate conversions from estimates of February administrations of the Illinois Bar Exam, which ""are heavily skewed towards repeat test-takers who failed the July administration and score significantly lower than the general test-taking population.""
+
+Compared to July test-takers, GPT-4's UBE score would be 68th percentile, in",Research,self.MachineLearning,GPT-4
+[N] OpenAI may have benchmarked GPT-4’s coding ability on it’s own training data,1003.0,0.97,134.0,Balance-,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/124eyso/n_openai_may_have_benchmarked_gpt4s_coding/,/r/MachineLearning/comments/124eyso/n_openai_may_have_benchmarked_gpt4s_coding/,1679983023.0,True,"[GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
+
+*OpenAI may have tested on the training data. Besides, human benchmarks are meaningless for bots.*
+
+ **Problem 1: training data contamination**
+
+To benchmark GPT-4’s coding ability, OpenAI evaluated it on problems from Codeforces, a website that hosts coding competitions. Surprisingly, Horace He pointed out that GPT-4 solved 10/10 pre-2021 problems and",News,self.MachineLearning,GPT-4
+[R] Telling GPT-4 you're scared or under pressure improves performance,537.0,0.96,119.0,Successful-Western27,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/17mk3lx/r_telling_gpt4_youre_scared_or_under_pressure/,/r/MachineLearning/comments/17mk3lx/r_telling_gpt4_youre_scared_or_under_pressure/,1698976535.0,True,"In a recent paper, researchers have discovered that LLMs show enhanced performance when provided with prompts infused with emotional context, which they call ""EmotionPrompts.""
+
+These prompts incorporate sentiments of urgency or importance, such as ""It's crucial that I get this right for my thesis defense,"" as opposed to neutral prompts like ""Please provide feedback.""
+
+The study's empirical evidence suggests substantial gains. This indicates a **significant sensitivity of LLMs to the implied emot",Research,self.MachineLearning,GPT-4
+[R] [P] I generated a 30K-utterance dataset by making GPT-4 prompt two ChatGPT instances to converse.,807.0,0.96,104.0,radi-cho,MachineLearning,https://i.redd.it/bywcz1kzs9ra1.png,/r/MachineLearning/comments/128lo83/r_p_i_generated_a_30kutterance_dataset_by_making/,1680353850.0,,,Research,i.redd.it,GPT-4
+[D]GPT-4 might be able to tell you if it hallucinated,645.0,0.93,92.0,Cool_Abbreviations_9,MachineLearning,https://i.redd.it/ocs0x33429qa1.jpg,/r/MachineLearning/comments/123b66w/dgpt4_might_be_able_to_tell_you_if_it_hallucinated/,1679890896.0,,,Discussion,i.redd.it,GPT-4
+"[D] I just realised: GPT-4 with image input can interpret any computer screen, any userinterface and any combination of them.",452.0,0.92,123.0,Balance-,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/120guce/d_i_just_realised_gpt4_with_image_input_can/,/r/MachineLearning/comments/120guce/d_i_just_realised_gpt4_with_image_input_can/,1679655609.0,True,"GPT-4 is a multimodal model, which specifically accepts image and text inputs, and emits text outputs. And I just realised: You can layer this over any application, or even combinations of them. You can make a screenshot tool in which you can ask question.
+
+This makes literally any current software with an GUI machine-interpretable. A multimodal language model could look at the exact same interface that you are. And thus you don't need advanced integrations anymore.
+
+Of course, a custom integrat",Discussion,self.MachineLearning,GPT-4
+"[N] GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany - heise online",660.0,0.98,79.0,Singularian2501,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/11mzqxu/n_gpt4_is_coming_next_week_and_it_will_be/,/r/MachineLearning/comments/11mzqxu/n_gpt4_is_coming_next_week_and_it_will_be/,1678386658.0,True,"[https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
+
+>**GPT-4 is coming next week**: at an approximately one-hour hybrid information event entitled ""**AI in Focus - Digital Kickoff"" on 9 March 2023**, four Microsoft Germany employees presented Large Language Models (LLM) like GPT series as a disruptive force for compani",News,self.MachineLearning,GPT-4
+"[D] GPT-3, The $4,600,000 Language Model",470.0,0.97,217.0,mippie_moe,MachineLearning,https://www.reddit.com/r/MachineLearning/comments/h0jwoz/d_gpt3_the_4600000_language_model/,/r/MachineLearning/comments/h0jwoz/d_gpt3_the_4600000_language_model/,1591822238.0,True,"[OpenAI’s GPT-3 Language Model Explained](https://lambdalabs.com/blog/demystifying-gpt-3/)
+
+Some interesting take-aways:
+
+* GPT-3 demonstrates that a language model trained on enough data can solve NLP tasks that it has never seen. That is, GPT-3 studies the model as a general solution for many downstream jobs **without fine-tuning**.
+* It would take **355 years** to train GPT-3 on a Tesla V100, the fastest GPU on the market.
+* It would cost **\~$4,600,000** to train GPT-3 on using the lowest co",Discussion,self.MachineLearning,GPT-4
+"Nvidia just dropped a bombshell: Its new AI model is open, massive, and ready to rival GPT-4",1710.0,0.97,216.0,norcalnatv,Artificial,https://venturebeat.com/ai/nvidia-just-dropped-a-bombshell-its-new-ai-model-is-open-massive-and-ready-to-rival-gpt-4/,/r/artificial/comments/1fu93k4/nvidia_just_dropped_a_bombshell_its_new_ai_model/,1727847601.0,,,News,venturebeat.com,GPT-4
+"GPT-5 arrives imminently. Here's what the hype won't tell you. | Curb your enthusiasm: OpenAI's latest model is said to be smarter than GPT-4, but not by much.",287.0,0.84,263.0,creaturefeature16,Artificial,https://mashable.com/article/gpt5-coming,/r/artificial/comments/1mjd08m/gpt5_arrives_imminently_heres_what_the_hype_wont/,1754505893.0,,">Altman's careful language tracks with a new and [devastating report](https://www.theinformation.com/articles/inside-openais-rocky-path-gpt-5) from Silicon Valley scoop machine The Information. According to multiple sources inside OpenAI and its partner Microsoft, the upgrades in GPT-5 are mostly in the areas of solving math problems and writing software code — and even they ""won’t be comparable to the leaps in performance of earlier GPT-branded models, such as the improvements between GPT-3 in ",News,mashable.com,GPT-4
+Just so you know,2769.0,0.79,1093.0,vesperythings,Artificial,https://i.redd.it/w0n0t016otkf1.png,/r/artificial/comments/1myawzu/just_so_you_know/,1755978036.0,,,Discussion,i.redd.it,GPT-4
+He predicted this 2 years ago.,3669.0,0.96,360.0,Sad_Cardiologist_835,Artificial,https://i.redd.it/3ctmwrgrqxhf1.jpeg,/r/artificial/comments/1mli9da/he_predicted_this_2_years_ago/,1754719765.0,,Have really hit a wall?,Discussion,i.redd.it,GPT-4
+"OpenAI CTO says GPT-3 was toddler-level, GPT-4 was a smart high schooler and the next gen, to be released in a year and a half, will be PhD-level",132.0,0.75,121.0,Maxie445,Artificial,https://twitter.com/tsarnick/status/1803901130130497952,/r/artificial/comments/1dktc5w/openai_cto_says_gpt3_was_toddlerlevel_gpt4_was_a/,1718937150.0,,,News,twitter.com,GPT-4
+GPT-4 shows emergent Theory of Mind on par with an adult. It scored in the 85+ percentile for a lot of major college exams. It can also do taxes and create functional websites from a simple drawing,258.0,0.9,164.0,lostlifon,Artificial,https://www.reddit.com/gallery/11rvzgg,/r/artificial/comments/11rvzgg/gpt4_shows_emergent_theory_of_mind_on_par_with_an/,1678885999.0,,,News,reddit.com,GPT-4
+Tree of LifeGPT-4 reasoning Improved 900%.,254.0,0.95,134.0,Department_Wonderful,Artificial,https://www.reddit.com/r/artificial/comments/13n7zqn/tree_of_lifegpt4_reasoning_improved_900/,/r/artificial/comments/13n7zqn/tree_of_lifegpt4_reasoning_improved_900/,1684615256.0,True,"I just watched this video, and I wanted to share it with the group. I want to see what you think about this? Have a great night. 
+
+https://youtu.be/BrjAt-wvEXI
+
+Tree of Thoughts (ToT) is a new framework for language model inference that generalizes over the popular “Chain of Thought” approach to prompting language models¹. It enables exploration over coherent units of text (“thoughts”) that serve as intermediate steps toward problem solving¹. ToT allows language models to perform deliberate deci",AGI,self.artificial,GPT-4
+GPT-4 now exceeds humans at theory of mind tasks,256.0,0.86,72.0,Maxie445,Artificial,https://i.redd.it/wx14uvidxo3d1.jpeg,/r/artificial/comments/1d4nb3n/gpt4_now_exceeds_humans_at_theory_of_mind_tasks/,1717130097.0,,https://arxiv.org/abs/2405.18870,News,i.redd.it,GPT-4
+Another study showing GPT-4 outperforming human doctors at showing empathy,182.0,0.85,77.0,Maxie445,Artificial,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821167,/r/artificial/comments/1e5a16e/another_study_showing_gpt4_outperforming_human/,1721193169.0,,,News,jamanetwork.com,GPT-4
+GPT-4 given $100 and told to make as much money as possible,382.0,0.95,84.0,jaredigital62,Artificial,https://twitter.com/jacksonfall/status/1636107218859745286?s=42&t=TCif-8-RF6HpGcDmaOEB3g,/r/artificial/comments/11su1tj/gpt4_given_100_and_told_to_make_as_much_money_as/,1678972980.0,,,News,twitter.com,GPT-4
+OpenAI Roadmap Update for GPT-4.5 & GPT-5,2307.0,0.95,320.0,73ch_nerd,OpenAI,https://i.redd.it/j6j5diamdrie1.jpeg,/r/OpenAI/comments/1inz75h/openai_roadmap_update_for_gpt45_gpt5/,1739388021.0,,,News,i.redd.it,GPT-4
+GPT 4 to GPT 5 !! If you think it's just too big difference,749.0,0.9,261.0,Independent-Wind4462,OpenAI,https://i.redd.it/ewb21so66mjf1.png,/r/OpenAI/comments/1mswtl2/gpt_4_to_gpt_5_if_you_think_its_just_too_big/,1755451367.0,,,Discussion,i.redd.it,GPT-4
+GPT-4.5 has an API price of $75/1M input and $150/1M output. ChatGPT Plus users are going to get 5 queries per month with this level of pricing.,926.0,0.97,293.0,queendumbria,OpenAI,https://i.redd.it/zjx8b508qqle1.png,/r/OpenAI/comments/1izpgct/gpt45_has_an_api_price_of_751m_input_and_1501m/,1740687714.0,,,Discussion,i.redd.it,GPT-4
+"Confirmed by openAI employee, the rate limit of GPT 4.5 for plus users is 50 messages / week",909.0,0.92,215.0,Snoo26837,OpenAI,https://i.redd.it/cxkcinv9fyme1.jpeg,/r/OpenAI/comments/1j4h8b9/confirmed_by_openai_employee_the_rate_limit_of/,1741216719.0,,,News,i.redd.it,GPT-4
+"OpenAI announced that GPT 4.5 is going soon, to free up GPUs!",948.0,0.97,139.0,TheSpaceFace,OpenAI,https://i.redd.it/npw34s7g4uue1.jpeg,/r/OpenAI/comments/1jz4igm/openai_announced_that_gpt_45_is_going_soon_to/,1744651461.0,,,Discussion,i.redd.it,GPT-4
+Claude 3 Opus Becomes the New King! Haiku is GPT-4 Level which is Insane!,1355.0,0.97,228.0,lordpermaximum,OpenAI,https://i.redd.it/abeuuw3vgrqc1.png,/r/OpenAI/comments/1bomdsh/claude_3_opus_becomes_the_new_king_haiku_is_gpt4/,1711494846.0,,,News,i.redd.it,GPT-4
+Make GPT-4 your b*tch!,1689.0,0.92,204.0,illusionst,OpenAI,https://www.reddit.com/r/OpenAI/comments/186gk3b/make_gpt4_your_btch/,/r/OpenAI/comments/186gk3b/make_gpt4_your_btch/,1701231166.0,True,"The other day, I’m 'in the zone' writing code, upgrading our OpenAI python library from  0.28.1 to 1.3.5, when this marketing intern pops up beside my desk. 
+
+He’s all flustered, like, 'How do I get GPT-4 to do what I want? It’s repeating words, the answers are way too long, and it just doesn’t do that thing I need.'
+
+So, I dive in, trying to break down frequency penalty, logit bias, temperature, top_p – all that jazz. But man, the more I talk, the more his eyes glaze over. I felt bad (No bad st",Discussion,self.OpenAI,GPT-4
+Goodbye GPT-4,716.0,0.98,148.0,dylanneve1,OpenAI,https://i.redd.it/syn1a6fnn1ue1.png,/r/OpenAI/comments/1jw3u4z/goodbye_gpt4/,1744306793.0,,Looks like GPT-4 will be sunset on April 30th and removed from ChatGPT. So long friend 🫡,News,i.redd.it,GPT-4
+"Yann LeCun confidently predicted that LLMs will never be able to do basic spatial reasoning. 1 year later, GPT-4 proved him wrong.",636.0,0.8,397.0,dlaltom,OpenAI,https://v.redd.it/ab3qxm7cwy3d1,/r/OpenAI/comments/1d5ns1z/yann_lecun_confidently_predicted_that_llms_will/,1717250886.0,,,Video,v.redd.it,GPT-4
+GPT-4.5's Low Hallucination Rate is a Game-Changer – Why No One is Talking About This!,524.0,0.84,213.0,Rare-Site,OpenAI,https://i.redd.it/ww66nsctuqle1.jpeg,/r/OpenAI/comments/1izq37r/gpt45s_low_hallucination_rate_is_a_gamechanger/,1740689338.0,,,Discussion,i.redd.it,GPT-4
